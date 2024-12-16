@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nyagalen
 - 👀 I’m a student at 42 coding school
-- 🌱 I’m currently learning C, C++, and Docker. I'm knowledgeable in Java, Spring, JDBC, Hibernate, Git, SQL, HTML, and CSS.
+- 🌱 I’m an aspiring fullstack developer. I'm knowledgeable in Javascript, HTML, CSS and Bootstrap, Java, Spring, Git, SQL.
 - 📫 How to reach me: https://www.linkedin.com/in/svetlana-vydrina-362964235/
 
 
